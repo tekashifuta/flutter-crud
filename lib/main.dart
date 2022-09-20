@@ -75,7 +75,7 @@ class _HomePageState extends State<HomePage> {
               controller: _fnameConn,
               decoration: const InputDecoration(
                   border: OutlineInputBorder(),
-                  label: Text('Fullname'),
+                  label: Text('Fullnames'),
                   hintText: 'Input Fullname'),
             ),
           ),
